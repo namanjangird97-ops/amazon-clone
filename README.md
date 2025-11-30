@@ -1,2 +1,2 @@
 # amazon-clone
-i created amazon clone responsive website 
+A responsive frontend clone of the Amazon homepage built using HTML and CSS. 
